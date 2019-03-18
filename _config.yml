@@ -17,7 +17,7 @@ title: Rubén Díaz-Jorge
 description: >- # this means to ignore newlines until "baseurl:"
   Full Stack web developer, focusing on the Ruby on Rails ecosystem.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://chipairon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.rubendiazjorge.me" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  chipairon
 linkedin_username: rubendiazjorge
 stack_overflow_username: chipairon
