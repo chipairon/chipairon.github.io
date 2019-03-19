@@ -24,7 +24,7 @@ stack_overflow_username: chipairon
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
