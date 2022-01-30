@@ -16,6 +16,7 @@
 title: Rubén Díaz-Jorge
 description: >- # this means to ignore newlines until "baseurl:"
   Full Stack web developer, focusing on the Ruby on Rails ecosystem.
+  I currently work at [Bergamotte](https://www.bergamotte.fr/) as a Lead Software Engineer.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.rubendiazjorge.me" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  chipairon
@@ -23,7 +24,18 @@ linkedin_username: rubendiazjorge
 stack_overflow_username: chipairon
 
 # Build settings
-markdown: kramdown
+# The following cannot be changed: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#configuring-jekyll-in-your-github-pages-site
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 theme: minima
 plugins:
   - jekyll-feed
