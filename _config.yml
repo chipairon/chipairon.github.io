@@ -19,12 +19,9 @@
 # in the templates via {{ site.myvariable }}
 
 
-title: Your awesome title
-email: your-email@example.com
+title: Rubén Díaz-Jorge
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Full Stack software engineer, focusing on the Ruby on Rails ecosystem.
 domain: rubendiazjorge.me           # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://www.rubendiazjorge.me  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /                          # place folder name if the site is served in a subfolder
